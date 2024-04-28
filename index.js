@@ -56,7 +56,6 @@ function checkAns(){
         setTimeout(function(){
             document.body.style.backgroundColor="white";
         },300);
-        // levelUp();
     }
 }
 function btnPress(){
